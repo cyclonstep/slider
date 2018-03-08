@@ -18,12 +18,12 @@
   "bugs": {
     "url": "http://github.com/cyclonstep/slider/issues"
   },
-  "files": [
-    "assets/*.css",
-    "lib",
-    "es",
-    "dist"
-  ],
+  //"files": [
+  //  "assets/*.css",
+  //  "lib",
+  //  "es",
+  //  "dist"
+  //],
   "license": "MIT",
   "main": "./lib/index.js",
   "module": "./es/index",
