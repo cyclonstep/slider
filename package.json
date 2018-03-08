@@ -10,13 +10,13 @@
     "input",
     "range"
   ],
-  "homepage": "http://github.com/react-component/slider/",
+  "homepage": "http://github.com/cyclonstep/slider/",
   "repository": {
     "type": "git",
-    "url": "git@github.com:react-component/slider.git"
+    "url": "git@github.com:cyclonstep/slider.git"
   },
   "bugs": {
-    "url": "http://github.com/react-component/slider/issues"
+    "url": "http://github.com/cyclonstep/slider/issues"
   },
   "files": [
     "assets/*.css",
